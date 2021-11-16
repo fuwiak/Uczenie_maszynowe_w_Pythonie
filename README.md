@@ -1,5 +1,15 @@
 # Uczenie_maszynowe_w_Pythonie
 
+Odpowiedzi na pytania:
+
+- Mozna ustawic wyraz wolny w regresji logistycznej
+LogisticRegression(fit_intercept =)
+
+- R adjusted - dolozymy do w analizie.
+
+
+
+
 poczta130@gmail.com
 
 Link do prezentacji:
