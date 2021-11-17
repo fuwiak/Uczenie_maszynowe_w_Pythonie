@@ -3,6 +3,8 @@
 poczta130@gmail.com
 
 Projekt grupowy
+https://www.kaggle.com/cdabakoglu/heart-disease-classifications-machine-learning
+
 
 https://colab.research.google.com/drive/1ost7KGIJsYmqFHB5tnVn0OgTNMTMaBMr#scrollTo=wr30ZUafywUr
 
