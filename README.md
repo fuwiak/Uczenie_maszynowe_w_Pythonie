@@ -4,7 +4,7 @@ poczta130@gmail.com
 
 Projekt grupowy
 
-https://colab.research.google.com/drive/1_yRBDAktfe2aEkCynicq28kEEahC7tYJ#scrollTo=2daKYGQWm8ax
+https://colab.research.google.com/drive/1ost7KGIJsYmqFHB5tnVn0OgTNMTMaBMr#scrollTo=wr30ZUafywUr
 
 
 
