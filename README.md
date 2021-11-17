@@ -3,6 +3,7 @@
 poczta130@gmail.com
 
 Piatek: Link do danych
+https://www.kaggle.com/cdabakoglu/heart-disease-classifications-machine-learning/data
 https://archive.ics.uci.edu/ml/datasets/Heart+Disease
 
 
