@@ -1,5 +1,30 @@
 # Uczenie_maszynowe_w_Pythonie
 
+```{python}
+
+#zapisujemy model do pliku
+def dump_to_pickle(model, filename: str)-> None:
+  pickle.dump(model, open(filename, 'wb'))
+  
+
+def load_from_pickle(filename):
+		loaded_model = pickle.load(open(filename, 'rb'))
+		return model
+
+
+```
+
+
+
+
+
+
+
+
+
+
+
+
 poczta130@gmail.com
 
 Projekt grupowy
