@@ -2,6 +2,12 @@
 
 poczta130@gmail.com
 
+Projekt grupowy
+
+https://colab.research.google.com/drive/1_yRBDAktfe2aEkCynicq28kEEahC7tYJ#scrollTo=2daKYGQWm8ax
+
+
+
 Piatek: Link do danych
 https://www.kaggle.com/cdabakoglu/heart-disease-classifications-machine-learning/data
 https://archive.ics.uci.edu/ml/datasets/Heart+Disease
