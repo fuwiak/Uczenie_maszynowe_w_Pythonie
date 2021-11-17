@@ -1,16 +1,18 @@
 # Uczenie_maszynowe_w_Pythonie
 
-Odpowiedzi na pytania:
-
-- Mozna ustawic wyraz wolny w regresji logistycznej
-LogisticRegression(fit_intercept =)
-
-- R adjusted - dolozymy do w analizie.
-
-
-
-
 poczta130@gmail.com
+
+Piatek: Link do danych
+https://archive.ics.uci.edu/ml/datasets/Heart+Disease
+
+
+
+
+
+
+
+
+
 
 Link do prezentacji:
 
@@ -53,5 +55,14 @@ https://colab.research.google.com/drive/1iO1d6Fo804dr5xxrs07ioSB7yh-kyikv#scroll
 
 https://colab.research.google.com/drive/1kSE07kAd6D9nRMaYrfzmzGOo7C0xLvyu#scrollTo=j9ITIgGKZgXq
 
+
+
+
+Odpowiedzi na pytania:
+
+- Mozna ustawic wyraz wolny w regresji logistycznej
+LogisticRegression(fit_intercept =)
+
+- R adjusted - dolozymy do w analizie.
 
 
