@@ -7,6 +7,10 @@ Projekt grupowy
 https://colab.research.google.com/drive/1ost7KGIJsYmqFHB5tnVn0OgTNMTMaBMr#scrollTo=wr30ZUafywUr
 
 
+Temat 8 PCA
+https://colab.research.google.com/drive/1rc23lyz7I3UIeoF-Mox_GGZhrD46ss5-#scrollTo=k-V_pxXzAio5
+
+
 
 Piatek: Link do danych
 https://www.kaggle.com/cdabakoglu/heart-disease-classifications-machine-learning/data
