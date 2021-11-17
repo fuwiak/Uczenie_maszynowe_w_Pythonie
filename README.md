@@ -6,10 +6,18 @@
 def dump_to_pickle(model, filename: str)-> None:
   pickle.dump(model, open(filename, 'wb'))
   
+#przyklad zapisania
+model = DecisionTreeClassifier()
+dump_to_pickle(dump_to_pickle, "model.pkl")
 
 def load_from_pickle(filename):
-		loaded_model = pickle.load(open(filename, 'rb'))
-		return model
+    loaded_model = pickle.load(open(filename, 'rb'))
+    return model
+
+#przyklad odczytu
+
+moj_model = load_from_pickle("model.pkl")
+
 
 
 ```
